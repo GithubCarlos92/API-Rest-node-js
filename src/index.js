@@ -1,6 +1,6 @@
 import express from "express";
 
-const app = express()
+const app = express();
 
-app.listen(3000)
-console.log("PUERTO LISTO", 3000)
+app.listen(3000);
+console.log("PUERTO LISTO", 3000);
