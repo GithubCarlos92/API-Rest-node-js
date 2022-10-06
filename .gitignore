@@ -1,0 +1,3 @@
+## estos archivos no subiran al repositorio
+node_modules
+package-lock.json
