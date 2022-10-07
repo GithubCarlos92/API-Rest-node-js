@@ -10,7 +10,7 @@
 
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos Valverde",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
