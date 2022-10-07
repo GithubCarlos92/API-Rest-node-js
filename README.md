@@ -1,2 +1,2 @@
 # API-Rest-nodejs
-API Restful ( node js, mongoose, jsonwebtoken, express, cors, helmet, morgan, babel, nodemon) 
+API-Rest-nodejs ( node js, mongoose, jsonwebtoken, express, cors, helmet, morgan, babel, nodemon) 
